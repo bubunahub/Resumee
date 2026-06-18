@@ -1,0 +1,26 @@
+body{
+   background-color: rgb(255, 255, 255);
+   text-align: center;
+}
+
+h2{
+    color: rgb(35, 35, 126);
+    text-align: center;
+}
+img{
+   width: 90px;
+   height: 90px;
+   border-radius: 50%;
+   object-fit: cover;
+
+   
+   
+}
+ h5{
+   color: rgb(35, 35, 126);
+    text-align: center;
+ }
+ h4{
+   color: rgb(35, 35, 126);
+    text-align: center;
+ }
